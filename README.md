@@ -1,11 +1,11 @@
-| # |         Name          |      Author      | Test | Weakness | Strengths | 
-|:-:|:---------------------:|:----------------:|:----:|:--------:|:---------:|
-| 1 |      [News][p1]       |  [Rayiumir][a1]  |  ✅   |    -     |     -     |
-| 2 |    [shopline][p2]     | [milwad-dev][a2] |  ✅   |    -     |     -     |
-| 3 |   [admin-panel][p3]   |  [amizayi][a3]   |  ✅   |    -     |     -     |
+| # |                  Name |      Author      | Test | Weakness | Strengths | 
+|:-:|----------------------|:----------------:|:----:|:--------:|:---------:|
+| 1 |            [News][p1] |  [Rayiumir][a1]  |  ✅   |    -     |     -     |
+| 2 |        [shopline][p2] | [milwad-dev][a2] |  ✅   |    -     |     -     |
+| 3 |     [admin-panel][p3] |  [amizayi][a3]   |  ✅   |    -     |     -     |
 | 4 | [laravel-sticket][p4] |  [amiravel][a4]  |  -   |    -     |     -     |
-| 5 |  [Blog-with-TDD][p5]  | [abbasfisal][a5] |  ✅   |    -     |     -     |
-| 6 |    [LaWallet][p6]     |  [amiravel][a4]  |  ✅   |    -     |     -     |
+| 5 |   [Blog-with-TDD][p5] | [abbasfisal][a5] |  ✅   |    -     |     -     |
+| 6 |        [LaWallet][p6] |  [amiravel][a4]  |  ✅   |    -     |     -     |
 
 [p1]:https://github.com/Rayiumir/News
 [p2]:https://github.com/milwad-dev/shopline
