@@ -6,7 +6,7 @@
 | 4 | [laravel-sticket][p4] |  [amiravel][a4]   |  -   |    -     |     -     |
 | 5 | [Blog-with-TDD][p5]   | [abbasfisal][a5]  |  ✅   |    -     |     -     |
 | 6 | [LaWallet][p6]        |  [amiravel][a4]   |  ✅   |    -     |     -     |
-| 6 | [todo-list-api][p7]   | [mjmichael73][a6] |  ✅   |    -     |     -     |
+| 6 | [todo-list-api][p7]   | [mjmichael73][a6] |  -   |    -     |     -     |
 
 [p1]:https://github.com/Rayiumir/News
 [p2]:https://github.com/milwad-dev/shopline
