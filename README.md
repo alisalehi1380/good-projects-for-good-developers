@@ -2,7 +2,7 @@
 
 The name of this repo is taken from the famous Iranian book <b>"Good Stories for Good Children"</b>.</br>
 I tried to collect good projects and make them accessible to those interested.</br>
-<b><ins> PR </ins></b> if you have a good project</br>
+If you have a good project, be sure to <b><ins>PR</ins></b>!</br>
 enjoy it! ✌️
 
 | # |                            pic                            | Author             |        Project        | Test | Weakness | Strengths | 
