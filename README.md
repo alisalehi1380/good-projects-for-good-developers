@@ -5,7 +5,7 @@ I tried to collect good projects and make them accessible to those interested.</
 If you have a good project, be sure to <b><ins>PR</ins></b>!</br>
 enjoy it! ✌️
 
-| # |                            pic                            | Author             |        Project        | Test | Weakness | Strengths | 
+| # |                            Pic                            | Author             |        Project        | Test | Weakness | Strengths | 
 |:-:|:---------------------------------------------------------:|:-------------------|:---------------------:|:----:|:--------:|:---------:|
 | 1 |   <img src="https://github.com/Rayiumir.png?size=30" />   | [Rayiumir][a1]     |      [News][p1]       |  ✅   |    -     |     -     |
 | 2 |  <img src="https://github.com/milwad-dev.png?size=30" />  | [milwad-dev][a2]   |    [shopline][p2]     |  ✅   |    -     |     -     |
