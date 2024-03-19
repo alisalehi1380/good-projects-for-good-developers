@@ -1,3 +1,10 @@
+### description
+
+The name of this repo is taken from the famous Iranian book <b>"Good Stories for Good Children"</b>.</br>
+I tried to collect good projects and make them accessible to those interested.</br>
+<b><ins> PR </ins></b> if you have a good project</br>
+enjoy it! ✌️
+
 | # |                            pic                            | Author             |        Project        | Test | Weakness | Strengths | 
 |:-:|:---------------------------------------------------------:|:-------------------|:---------------------:|:----:|:--------:|:---------:|
 | 1 |   <img src="https://github.com/Rayiumir.png?size=30" />   | [Rayiumir][a1]     |      [News][p1]       |  ✅   |    -     |     -     |
