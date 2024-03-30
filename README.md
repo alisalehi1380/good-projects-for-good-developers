@@ -16,6 +16,7 @@ enjoy it! ✌️
 | 7 | <img src="https://github.com/mjmichael73.png?size=30" />  | [mjmichael73][a6] |  [todo-list-api][p7]  |  -   |    -     |     -     |
 | 8 | <img src="https://github.com/muhammadmp97.png?size=30" /> | [muhammadmp97][a7] |      [Hope][p8]       |  ✅   |    -     |     -     |
 | 9 | <img src="https://github.com/alisalehi1380.png?size=30" /> | [alisalehi1380][a8] |      [task-manager][p9]       |  ✅   |    -     |     -     |
+| 9 | <img src="https://github.com/gisuNasr.png?size=30" /> | [gisuNasr][a9] |      [design-patterns][p10]       |  -   |    -     |     -     |
 
 [p1]:https://github.com/Rayiumir/News
 [p2]:https://github.com/milwad-dev/shopline
@@ -26,6 +27,7 @@ enjoy it! ✌️
 [p7]:https://github.com/mjmichael73/laravel-todo-list-api
 [p8]:https://github.com/muhammadmp97/Hope
 [p9]:https://github.com/alisalehi1380/laravel-task-manager
+[p10]:https://github.com/gisuNasr/laravel-design-patterns
 
 [a1]:https://github.com/Rayiumir
 [a2]:https://github.com/milwad-dev
@@ -35,4 +37,5 @@ enjoy it! ✌️
 [a6]:https://github.com/mjmichael73
 [a7]:https://github.com/muhammadmp97
 [a8]:https://github.com/alisalehi1380
+[a9]:https://github.com/gisuNasr
 
