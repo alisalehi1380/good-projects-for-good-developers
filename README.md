@@ -19,6 +19,7 @@ enjoy it! ✌️
 | 10 |           <img src="https://github.com/gisuNasr.png?size=30" />           | [gisuNasr][a9]            | [design-patterns][p10] |  -   |                  |    -     |     -     |
 | 11 |        <img src="https://github.com/farshidrezaei.png?size=30" />         | [farshidrezaei][a10]      | [martin_delivery][p11] |  ✅   | ✅                |    -     |     -     |
 | 12 | <img src="https://github.com/nrmz.png?size=30" style="width:30px;" /> | [nasser ramezanpour][a11] |    [digi][p12]    |  -   | ✅                |    -     |     -     |
+| 13 | <img src="https://github.com/arfar-x.png?size=30" style="width:30px;" /> | [Alireza Farhanian][a11] |    [Modular Laravel][p12]    |  -   | ✅                |    -     |     Plug and play arthictecture     |
 
 [p1]:https://github.com/Rayiumir/News
 [p2]:https://github.com/milwad-dev/shopline
