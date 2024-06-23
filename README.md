@@ -7,7 +7,7 @@ enjoy it! ✌️
 
 | #  |                                    pic                                    | Author                    |        Project         | Test | [🐳][dockerized] | Weakness | Strengths | 
 |:--:|:-------------------------------------------------------------------------:|:--------------------------|:----------------------:|:----:|------------------|:--------:|:---------:|
-| 1  |           <img src="https://github.com/Rayiumir.png?size=30" />           | [Rayiumir][a1]            |       [News][p1]       |  ✅   |                  |    -     |     -     |
+| 1  |           <img src="https://github.com/Rayiumir.png?size=30" />           | [Rayiumir][a1]            |       [News][p1]       |  -   |                  |    -     |     -     |
 | 2  |          <img src="https://github.com/milwad-dev.png?size=30" />          | [milwad-dev][a2]          |     [shopline][p2]     |  ✅   |                  |    -     |     -     |
 | 3  |           <img src="https://github.com/amizayi.png?size=30" />            | [amizayi][a3]             |   [admin-panel][p3]    |  ✅   |                  |    -     |     -     |
 | 4  |           <img src="https://github.com/amiravel.png?size=30" />           | [amiravel][a4]            | [laravel-sticket][p4]  |  -   |                  |    -     |     -     |
